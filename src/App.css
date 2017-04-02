@@ -1,24 +1,22 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  font-family: 'Poiret One', cursive;
+  font-family: 'Raleway', sans-serif;
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  padding: 0 20px;
+  border-bottom: 0.5px solid rgba(0, 0, 0, 0.5);
+  /*position: fixed;*/
+}
+
+.App-logo {
+  height: 70px;
+
 }
 
 .App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
 }
