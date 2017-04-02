@@ -29,6 +29,13 @@ a:hover {
   font-family: 'Raleway', sans-serif;
 }
 
+.validate {
+  border: 1px solid red;
+  background-color: grey;
+  width: 75%;
+  margin: 0 auto;
+}
+
 .asterisk {
   color: red;
   font-size: 1.5em;
@@ -42,6 +49,8 @@ a:hover {
   background-color: #24A5B1;
   border: none;
   padding: 15px;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
 }
 
 .button:hover {

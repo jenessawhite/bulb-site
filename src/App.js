@@ -13,6 +13,8 @@ class App extends Component {
           <h1>Bulb is coming</h1>
           <p>It is time to change the way we do DIY.</p>
         </div>
+        <h2>Be in the know. <br /> Get on the list.</h2>
+
       </div>
     );
   }
