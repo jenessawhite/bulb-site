@@ -76,3 +76,23 @@ a:hover {
   color: #fcf9f9;
   align-items: center;
 }
+
+.copyright .footer-links{
+  margin-left: 1rem;
+}
+
+.social-links {
+  font-size: 1.5em;
+  color: #24A5B1;
+  padding: 0.5rem;
+}
+
+.social-links:hover {
+  transition: 0.4s;
+  font-size: 1.7em;
+  color: #33EAFF;
+}
+
+@media (min-width: 768px) {
+
+}
